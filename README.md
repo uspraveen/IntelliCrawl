@@ -1,7 +1,7 @@
 # IntelliCrawl
 Production-scale search and retrieval system with adaptive strategy selection
 
-# AI-Powered Web Search & Content Acquisition Engine
+# AI-Powered Browser Automated Web Search & Content Acquisition Engine
 
 > **Production-scale content discovery and retrieval system for enterprise AI knowledge platforms**
 
