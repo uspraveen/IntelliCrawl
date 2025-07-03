@@ -1,5 +1,5 @@
 # IntelliCrawl
-Production-scale search and retrieval system with adaptive strategy selection
+Agentic Browser-Automated search and retrieval system with adaptive search planning. Overcome the shortcomings of DoM traversal based search and crawl by including LLM powered visual + DoM traversal.
 
 # AI-Powered Browser Automated Web Search & Content Acquisition Engine
 
